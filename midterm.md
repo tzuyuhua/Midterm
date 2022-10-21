@@ -92,7 +92,7 @@ population refused to get vaccinated even with the resources at hand.
 This report is not to discuss the cause of vaccine hesitancy or the
 legitimacy of the claims by certain “anti-vaccinationism”, but to see if
 vaccine hesitancy actually impacts the death and case number of COVID-19
-on a state level in the US.
+on a state level in the United States.
 
 # Methods
 

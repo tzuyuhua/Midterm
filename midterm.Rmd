@@ -29,7 +29,7 @@ As for the reason for vaccines hesitancy are complex, could be a result of numer
 
 After the global outbreak of COVID-19 and the invention of COVID-19 vaccines, vaccine hesitancy plays an even more important role than before.  We can observe vaccines being not just a measure of disease prevention, but also a mean of politics, yet we can also see a subset of population refused to get vaccinated even with the resources at hand.
 
-This report is not to discuss the cause of vaccine hesitancy or the legitimacy of the claims by certain "anti-vaccinationism", but to see if vaccine hesitancy actually impacts the death and case number of COVID-19 on a state level in the US.  
+This report is not to discuss the cause of vaccine hesitancy or the legitimacy of the claims by certain "anti-vaccinationism", but to see if vaccine hesitancy actually impacts the death and case number of COVID-19 on a state level in the United States.  
 
 # Methods
 
